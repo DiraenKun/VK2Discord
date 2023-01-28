@@ -1,0 +1,30 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "vk1.a.Rh4m5PJRiE6EeVT6LZbnTdPvocb-KGzJ1byxakGgI7qwNy6ImuVG7ZyZjG4oGdJMBeGlBtzWEpJNbre9Uba-Wuu7Pz_IX66o_vTD_MRNUpaGCao_L_gCwUA7nV32fYM9Q4Ds5nr6ofmOw-o_okqDYYPKFOzDbzBrOitMT-4HW92IfP_sNufRe8Gw8ODHvQzYEPsf6BOv6WyP5Y-YLtAd4Q",
+				"group_id": "deadbydaylight_overhear",
+				"keywords": ["#предложка@deadbydaylight_overhear", "#видео@deadbydaylight_overhear", "#мем@deadbydaylight_overhear", "#deadbydaylight#news", "#арт@deadbydaylight_overhear"],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 60
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1068783374308741150/Gi8mUqyxiWy4uas9gtlDMt6K0_bpqYG1qoUyQTn1K51_lpsqsRaaVC8nZMXmUwNDlbb3"
+				],
+				"username": "",
+				"avatar_url": "",
+				"content": "",
+				"color": "E150FF",
+				"author": false,
+				"copyright": false,
+				"date": true,
+				"exclude_content": []
+			}
+		}
+	],
+	"version_dont_modify_me": 5
+}
